@@ -1,0 +1,23 @@
+.success,
+.error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
+.delete {
+  color: red;
+  text-decoration: none;
+}
+.delete-msg {
+  padding: 5px;
+  background-color: rgb(236, 99, 122);
+  color: white;
+}
